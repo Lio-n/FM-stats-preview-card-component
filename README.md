@@ -15,8 +15,6 @@ This is a solution to the [Stats preview card component challenge on Frontend Me
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -27,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot-Desktop](./screenshot.png)
+![Screenshot Desktop](./images/Screenshot-Desktop.png)
 
 ### Links
 
@@ -40,7 +38,7 @@ Users should be able to:
 In the first instance I mostly used the pixel unit,
 but this didn't get the result I wanted.
 
-So for this challenge I learned to use 'rem' units,
+So for this challenge I learned to use 'Rem' units,
 and to make it more flexible.
 
 I think that's all for now. :D
@@ -54,7 +52,7 @@ And something else.
 
 ### Useful resources
 
-Use this website to improve with em and rem units.
+Use this website to improve with 'Em' and 'Rem' units.
 
 - [envatotuts+](https://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984)
 
