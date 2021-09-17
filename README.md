@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Github](https://lio-n.github.io/stats-preview-card-component/)
+- Live Site URL: [Github](https://lio-n.github.io/FM-stats-preview-card-component/)
 
 ## My process
 
